@@ -1,10 +1,11 @@
 import Counter from "./Counter";
 import "./App.css";
+import ContactForm from "./ContactForm";
 
 function App() {
   return (
     <div>
-      <Counter />
+      <ContactForm />
     </div>
   );
 }
